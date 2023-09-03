@@ -698,7 +698,7 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-	background: #fff;
+	background: #1414f9;
 	color: #FFFFFF;
 }
 .button.button-primary:hover,
@@ -2651,7 +2651,7 @@ header .logo a {
 /* contact form */
 .contact-form {
 	max-width: 740px;
-	background-color: #5c5c5f4c;
+	background-color: #0000ff1e;
 }
 
 .contact-form ::-webkit-input-placeholder {
