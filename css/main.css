@@ -2351,6 +2351,7 @@ header .logo a {
 /* contact form */
 .contact-form {
 	max-width: 740px;
+	background-color: #5c5c5f4c;
 }
 
 .contact-form ::-webkit-input-placeholder {
