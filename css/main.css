@@ -999,6 +999,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	opacity: 0;
 	transition: 200ms opacity ease-in-out;
 	transition-delay: 200ms;
+	background-image: url(../images/Security\ Guard\ Positions.gif);
+	background-repeat: no-repeat;
+	margin: auto;
+	width: 100%;
+	background-size: 100%;
   }
   
   .slide > img {
@@ -1149,6 +1154,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	.section-intro h1 {
 		font-size: 3rem;
 	}
+	.slide {
+		
+		background-image: url(../images/Untitled\ design\ \(1\).jpg);
+		
+	  }
 }
 @media only screen and (max-width:600px) {
 	.section-intro h1 {
@@ -1158,6 +1168,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 		font-size: 1.5rem;
 		letter-spacing: .3rem;
 	}
+	.slide {
+		
+		background-image: url(../images/Untitled\ design\ \(1\).jpg);
+		
+	  }
 }
 @media only screen and (max-width:400px) {
 	.section-intro h1 {
@@ -1167,6 +1182,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 		width: 100vw;
 		height: 300px;
 		position: relative;
+	  }
+	  .slide {
+		
+		background-image: url(../images/Untitled\ design\ \(1\).jpg);
+		
 	  }
 }
 
