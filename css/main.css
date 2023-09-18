@@ -1436,6 +1436,7 @@ body {
 		  left: -10px;
 		}
 	  }
+	  
   
 	  .next {
 		right: 30px;
@@ -1458,8 +1459,8 @@ body {
   
 header .logo {
 	float: left;
-	
-	margin-top: 25px;
+	height: fit-content;
+	margin-top: 0;
 	position: relative;
 }
 header .logo a {
@@ -1470,8 +1471,8 @@ header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 252px;
-	height: 80px;
+	width: 200px;
+	height: 60px;
 	
 	background-size: 92px 15px;
 }
@@ -1583,7 +1584,7 @@ header .logo a {
 /* dropdown nav */
 .main-navigation {
 	background: #ffffff;
-	padding: 24px 30px 42px;
+	padding: 24px 30px 2px;
 	margin: 0;
 	width: 100%;
 	height: auto;
