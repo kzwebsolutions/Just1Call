@@ -985,7 +985,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	width: 100vw;
 	height: 75vh;
 	position: relative;
-	top: 120px;
+	top: 80px;
   }
   
   .carousel > ul {
@@ -1598,7 +1598,7 @@ header .logo a {
 	font-family: "poppins-medium", sans-serif;
 	font-size: 1.5rem;
 	position: absolute;
-	top: 80%;
+	top: 100%;
 	left: 0;
 }
 
